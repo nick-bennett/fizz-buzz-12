@@ -2,3 +2,5 @@
 .idea
 build
 *.iml
+.floo
+.flooignore
