@@ -1,0 +1,14 @@
+remote_theme: ddc-java/ddc-day
+
+title: FizzBuzz
+
+author:
+  name: Nick Bennett
+  email: nick@nickbenn.com
+
+heading_navigator:
+  enabled: true
+page_navigator:
+  enabled: false
+titles_from_headings:
+  enabled: false
